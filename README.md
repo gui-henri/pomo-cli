@@ -10,8 +10,6 @@ Pomodoro Timer: Set a timer for your work sessions, and the CLI will notify you 
 
 Customizable Settings: Adjust the duration of Pomodoro and break sessions according to your preferences.
 
-## Getting Started
-
 ## Installation
 
 Download the binary(windows) or clone this repository and build it. Make sure you have Go instaled on the most recent version.
