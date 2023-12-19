@@ -20,17 +20,17 @@ Download the binary(windows) or clone this repository and build it. Make sure yo
 pomo
 ```
 
-This will initiate a 5-minute Pomodoro session.
+This will initiate a 25-minute Pomodoro session.
 
 ## Adjust Timer Duration:
 
 To set a custom duration for the Pomodoro session or break, use the -min flag:
 
 ```bash
-pomo --min=25
+pomo --min=5
 ```
 
-This starts a Pomodoro session with a duration of 25 minutes.
+This starts a Pomodoro session with a duration of 5 minutes.
 
 ## View Help:
 For more options and information, use the --help flag:
