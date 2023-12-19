@@ -13,7 +13,7 @@ import (
 func main() {
 	fmt.Println("POMO CLI")
 
-	minutes := flag.Int("min", 5, "The number of minutes counted in this pomodoro \n")
+	minutes := flag.Int("min", 25, "The number of minutes counted in this pomodoro \n")
 	flag.Parse()
 	remaining := *minutes
 
